@@ -1,9 +1,10 @@
-# 🚀 End-to-End TensorRT + Triton + SageMaker Multi-Model Endpoint (MME)
+# 🚀 End-to-End Model + ONNX + TensorRT + Triton + SageMaker Multi-Model Endpoint (MME)
 
 This repository demonstrates a complete, production-grade workflow for:
 
 - Building deep learning models (**BERT** and **ResNet-50**)
-- Converting models into optimized **TensorRT engines**
+- Converting models from native frameworks to **ONNX**
+- Optimizing ONNX models into **TensorRT engines**
 - Packaging models for **NVIDIA Triton Inference Server**
 - Deploying models on **Amazon SageMaker Multi-Model Endpoints (MME)**
 - Running **GPU-accelerated inference** with dynamic model loading and unloading
