@@ -18,3 +18,5 @@ This tutorial uses an **Amazon SageMaker Notebook Instance** with the following 
 
 - **Instance type:** `g5.2xlarge`
 - **Storage:** 20 GB
+
+<img width="483" height="335" alt="image" src="https://github.com/user-attachments/assets/653adff0-f65f-4b38-8e41-ef7e8e9829a2" />
