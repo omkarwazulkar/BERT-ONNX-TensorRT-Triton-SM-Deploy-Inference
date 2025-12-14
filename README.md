@@ -2,7 +2,7 @@
 
 This repository demonstrates a complete, production-grade workflow for:
 
-- Building deep learning models (**BERT** and **ResNet-50**)
+- Using deep learning models (**BERT** and **ResNet-50**)
 - Converting models from native frameworks to **ONNX**
 - Optimizing ONNX models into **TensorRT engines**
 - Packaging models for **NVIDIA Triton Inference Server**
